@@ -1,10 +1,10 @@
 # go-exiftool
 
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
-[![Build Status](https://travis-ci.org/barasher/go-exiftool.svg?branch=master)](https://travis-ci.org/barasher/go-exiftool)
-[![go report card](https://goreportcard.com/badge/github.com/barasher/go-exiftool "go report card")](https://goreportcard.com/report/github.com/barasher/go-exiftool)
-[![GoDoc](https://godoc.org/github.com/barasher/go-exiftool?status.svg)](https://godoc.org/github.com/barasher/go-exiftool)
-[![codecov](https://codecov.io/gh/barasher/go-exiftool/branch/master/graph/badge.svg)](https://codecov.io/gh/barasher/go-exiftool)
+[![Build Status](https://travis-ci.org/PROger4ever-Golang/go-exiftool.svg?branch=master)](https://travis-ci.org/PROger4ever-Golang/go-exiftool)
+[![go report card](https://goreportcard.com/badge/github.com/PROger4ever-Golang/go-exiftool "go report card")](https://goreportcard.com/report/github.com/PROger4ever-Golang/go-exiftool)
+[![GoDoc](https://godoc.org/github.com/PROger4ever-Golang/go-exiftool?status.svg)](https://godoc.org/github.com/PROger4ever-Golang/go-exiftool)
+[![codecov](https://codecov.io/gh/PROger4ever-Golang/go-exiftool/branch/master/graph/badge.svg)](https://codecov.io/gh/PROger4ever-Golang/go-exiftool)
 
 **go-exiftool** is a golang library that wraps [ExifTool](https://www.sno.phy.queensu.ca/~phil/exiftool/).
 
@@ -63,5 +63,5 @@ Output :
 ## Changelog
 
 - v1.1.0 : initial release
-- [v1.1.1](https://github.com/barasher/go-exiftool/milestone/2)
-  - [add typed getters for filemetadata fields](https://github.com/barasher/go-exiftool/issues/2)
+- [v1.1.1](https://github.com/PROger4ever-Golang/go-exiftool/milestone/2)
+  - [add typed getters for filemetadata fields](https://github.com/PROger4ever-Golang/go-exiftool/issues/2)
